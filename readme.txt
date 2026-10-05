@@ -1,5 +1,8 @@
 Prácticas Hilos-Multihilos en JAVA
 
+Este proyecto fue una practica que realizamos para entender el funcionamiento de los hilos y multihilos en la programación y la ejecución de un programa, este es el resultado del funcionamiento de la clase ProductorConsumidor.java
+
+
 1. DemoHiloActual -> Thread.currentThread();
 2. HiloThread -> Creación de un Hilos (Thread / Runnable)
 3. HiloRunnable -> Creación de un Hilos (Thread / Runnable)
